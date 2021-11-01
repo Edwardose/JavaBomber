@@ -1,0 +1,40 @@
+
+BOMBA_SINISTRA.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bomba sinistra (1)
+  rotate: false
+  xy: 1, 1
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+bomba sinistra (2)
+  rotate: false
+  xy: 36, 1
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+bomba sinistra (4)
+  rotate: false
+  xy: 71, 1
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+bomba sinistra (3)
+  rotate: false
+  xy: 106, 1
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+bomba sinistra (5)
+  rotate: false
+  xy: 140, 1
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1

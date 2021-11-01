@@ -1,0 +1,40 @@
+
+BOMBA_BASSO.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bomba sotto (2)
+  rotate: false
+  xy: 1, 1
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+bomba sotto (4)
+  rotate: false
+  xy: 44, 1
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+bomba sotto (5)
+  rotate: false
+  xy: 87, 1
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+bomba sotto (1)
+  rotate: false
+  xy: 130, 2
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+bomba sotto (3)
+  rotate: false
+  xy: 173, 2
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1

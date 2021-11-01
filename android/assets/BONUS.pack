@@ -1,0 +1,138 @@
+
+BONUS.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+power_up (10)
+  rotate: false
+  xy: 1, 1
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+power_up (11)
+  rotate: false
+  xy: 46, 1
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+power_up (12)
+  rotate: false
+  xy: 91, 1
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+power_up (14)
+  rotate: false
+  xy: 136, 1
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+power_up (16)
+  rotate: false
+  xy: 181, 1
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+power_up (17)
+  rotate: false
+  xy: 226, 1
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+power_up (18)
+  rotate: false
+  xy: 271, 1
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+power_up (19)
+  rotate: false
+  xy: 316, 1
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+power_up (2)
+  rotate: false
+  xy: 361, 1
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+power_up (9)
+  rotate: false
+  xy: 406, 1
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+power_up (1)
+  rotate: false
+  xy: 451, 1
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+power_up (13)
+  rotate: false
+  xy: 495, 1
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+power_up (15)
+  rotate: false
+  xy: 539, 1
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+power_up (3)
+  rotate: false
+  xy: 583, 1
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+power_up (4)
+  rotate: false
+  xy: 627, 1
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+power_up (5)
+  rotate: false
+  xy: 671, 1
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+power_up (6)
+  rotate: false
+  xy: 715, 2
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+power_up (7)
+  rotate: false
+  xy: 759, 2
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+power_up (8)
+  rotate: false
+  xy: 803, 2
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1

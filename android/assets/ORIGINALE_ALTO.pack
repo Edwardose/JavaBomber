@@ -1,0 +1,19 @@
+
+ORIGINALE_ALTO.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+0
+  rotate: false
+  xy: 23, 4
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1

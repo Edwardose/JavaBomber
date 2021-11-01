@@ -1,0 +1,33 @@
+
+NEMICO_MORTE.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+morto (1)
+  rotate: false
+  xy: 1, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+morto (2)
+  rotate: false
+  xy: 25, 1
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+morto (3)
+  rotate: false
+  xy: 47, 1
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+morto (4)
+  rotate: false
+  xy: 69, 1
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1

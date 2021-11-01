@@ -1,0 +1,54 @@
+
+MOVE_RIGHT.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+destra (5)
+  rotate: false
+  xy: 1, 1
+  size: 32, 84
+  orig: 32, 84
+  offset: 0, 0
+  index: -1
+destra (2)
+  rotate: false
+  xy: 35, 4
+  size: 29, 81
+  orig: 29, 81
+  offset: 0, 0
+  index: -1
+destra (3)
+  rotate: false
+  xy: 66, 4
+  size: 29, 81
+  orig: 29, 81
+  offset: 0, 0
+  index: -1
+destra (4)
+  rotate: false
+  xy: 97, 4
+  size: 29, 81
+  orig: 29, 81
+  offset: 0, 0
+  index: -1
+destra (6)
+  rotate: false
+  xy: 128, 4
+  size: 29, 81
+  orig: 29, 81
+  offset: 0, 0
+  index: -1
+destra (7)
+  rotate: false
+  xy: 159, 5
+  size: 29, 80
+  orig: 29, 80
+  offset: 0, 0
+  index: -1
+destra (1)
+  rotate: false
+  xy: 190, 5
+  size: 28, 80
+  orig: 28, 80
+  offset: 0, 0
+  index: -1

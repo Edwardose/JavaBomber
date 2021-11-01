@@ -1,0 +1,159 @@
+
+THE_BOMB.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bomba15
+  rotate: false
+  xy: 1, 115
+  size: 121, 112
+  orig: 121, 112
+  offset: 0, 0
+  index: -1
+bomba17
+  rotate: false
+  xy: 1, 1
+  size: 121, 112
+  orig: 121, 112
+  offset: 0, 0
+  index: -1
+bomba14
+  rotate: false
+  xy: 124, 119
+  size: 115, 108
+  orig: 115, 108
+  offset: 0, 0
+  index: -1
+bomba18
+  rotate: false
+  xy: 124, 9
+  size: 115, 108
+  orig: 115, 108
+  offset: 0, 0
+  index: -1
+bomba11
+  rotate: false
+  xy: 241, 131
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+bomba13
+  rotate: false
+  xy: 241, 36
+  size: 102, 93
+  orig: 102, 93
+  offset: 0, 0
+  index: -1
+bomba19
+  rotate: false
+  xy: 345, 134
+  size: 102, 93
+  orig: 102, 93
+  offset: 0, 0
+  index: -1
+bomba20
+  rotate: false
+  xy: 345, 36
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+bomba10
+  rotate: false
+  xy: 449, 163
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+bomba21
+  rotate: false
+  xy: 449, 97
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+bomba1
+  rotate: false
+  xy: 522, 194
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+bomba2
+  rotate: false
+  xy: 449, 62
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+bomba22
+  rotate: false
+  xy: 522, 160
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+bomba23
+  rotate: false
+  xy: 565, 194
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+bomba24
+  rotate: false
+  xy: 522, 125
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+bomba4
+  rotate: false
+  xy: 565, 159
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+bomba5
+  rotate: false
+  xy: 608, 194
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+bomba6
+  rotate: false
+  xy: 608, 159
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+bomba8
+  rotate: false
+  xy: 651, 194
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+bomba9
+  rotate: false
+  xy: 565, 125
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+bomba3
+  rotate: false
+  xy: 651, 159
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+bomba7
+  rotate: false
+  xy: 694, 194
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1

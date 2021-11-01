@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="16" height="16" tilewidth="16" tileheight="16" infinite="0" nextobjectid="14">
+ <tileset firstgid="1" source="NES - Ninja Hattori-kun JPN - Stage Segments.tsx"/>
+ <layer name="BackGround" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJwL4WZgCKEQv+QhD1Nb/19BCCaWT239o/4f9f9A+J8SDABzVNVd
+  </data>
+ </layer>
+ <objectgroup name="Brick">
+  <object id="1" x="48" y="48" width="32" height="32"/>
+  <object id="2" x="112" y="48" width="32" height="32"/>
+  <object id="3" x="176" y="48" width="32" height="32"/>
+  <object id="4" x="48" y="112" width="32" height="32"/>
+  <object id="5" x="112" y="112" width="32" height="32"/>
+  <object id="6" x="176" y="112" width="32" height="32"/>
+  <object id="7" x="176" y="176" width="32" height="32"/>
+  <object id="8" x="112" y="176" width="32" height="32"/>
+  <object id="9" x="48" y="176" width="32" height="32"/>
+  <object id="10" x="0" y="0" width="16" height="256"/>
+  <object id="11" x="0" y="240" width="256" height="16"/>
+  <object id="12" x="240" y="0" width="16" height="256"/>
+  <object id="13" x="0" y="0" width="256" height="16"/>
+ </objectgroup>
+</map>

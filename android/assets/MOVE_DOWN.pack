@@ -1,0 +1,54 @@
+
+MOVE_DOWN.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+basso (5)
+  rotate: false
+  xy: 1, 1
+  size: 28, 85
+  orig: 28, 85
+  offset: 0, 0
+  index: -1
+basso (2)
+  rotate: false
+  xy: 31, 1
+  size: 27, 85
+  orig: 27, 85
+  offset: 0, 0
+  index: -1
+basso (3)
+  rotate: false
+  xy: 60, 1
+  size: 27, 85
+  orig: 27, 85
+  offset: 0, 0
+  index: -1
+basso (4)
+  rotate: false
+  xy: 89, 1
+  size: 27, 85
+  orig: 27, 85
+  offset: 0, 0
+  index: -1
+basso (6)
+  rotate: false
+  xy: 118, 1
+  size: 27, 85
+  orig: 27, 85
+  offset: 0, 0
+  index: -1
+basso (7)
+  rotate: false
+  xy: 147, 1
+  size: 27, 85
+  orig: 27, 85
+  offset: 0, 0
+  index: -1
+basso (8)
+  rotate: false
+  xy: 204, 1
+  size: 26, 85
+  orig: 26, 85
+  offset: 0, 0
+  index: -1

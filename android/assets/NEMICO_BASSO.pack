@@ -1,0 +1,61 @@
+
+NEMICO_BASSO.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+basso (1)
+  rotate: false
+  xy: 1, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+basso (7)
+  rotate: false
+  xy: 1, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+basso (2)
+  rotate: false
+  xy: 19, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+basso (6)
+  rotate: false
+  xy: 19, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+basso (3)
+  rotate: false
+  xy: 37, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+basso (5)
+  rotate: false
+  xy: 37, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+basso (4)
+  rotate: false
+  xy: 55, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+basso (8)
+  rotate: false
+  xy: 73, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,61 @@
+
+MOVE_UP.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+alto (5)
+  rotate: false
+  xy: 1, 1
+  size: 28, 84
+  orig: 28, 84
+  offset: 0, 0
+  index: -1
+alto (1)
+  rotate: false
+  xy: 31, 1
+  size: 27, 84
+  orig: 27, 84
+  offset: 0, 0
+  index: -1
+alto (2)
+  rotate: false
+  xy: 60, 1
+  size: 27, 84
+  orig: 27, 84
+  offset: 0, 0
+  index: -1
+alto (3)
+  rotate: false
+  xy: 89, 1
+  size: 27, 84
+  orig: 27, 84
+  offset: 0, 0
+  index: -1
+alto (4)
+  rotate: false
+  xy: 118, 1
+  size: 27, 84
+  orig: 27, 84
+  offset: 0, 0
+  index: -1
+alto (6)
+  rotate: false
+  xy: 147, 1
+  size: 27, 84
+  orig: 27, 84
+  offset: 0, 0
+  index: -1
+alto (7)
+  rotate: false
+  xy: 176, 1
+  size: 27, 84
+  orig: 27, 84
+  offset: 0, 0
+  index: -1
+alto (8)
+  rotate: false
+  xy: 205, 1
+  size: 27, 84
+  orig: 27, 84
+  offset: 0, 0
+  index: -1

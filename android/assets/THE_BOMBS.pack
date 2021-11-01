@@ -1,0 +1,89 @@
+
+THE_BOMBS.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+10
+  rotate: false
+  xy: 1, 30
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 44, 30
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 86, 30
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 128, 30
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 170, 30
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 212, 31
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 255, 31
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 297, 31
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 339, 32
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 339, 1
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 376, 32
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+0
+  rotate: false
+  xy: 374, 1
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
