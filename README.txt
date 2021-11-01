@@ -1,6 +1,6 @@
 JAVABOMBER
 
-Gioco creato attraverso Java utilizzando la libreria libGDX per dispositivi android. Il tema di riferimento è il classico videogame JavaBomber. 
+Gioco creato attraverso Java utilizzando la libreria libGDX per dispositivi android. Il tema di riferimento è il classico videogame BomberMan. 
 
 Per l'avvio del gioco eseguire il file situato in "desktop/src/it/uniroma1/metodologie2018/javabomber/desktop/DesktopLauncher.java" .
 
